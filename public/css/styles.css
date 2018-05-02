@@ -12,7 +12,7 @@
 @import url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
 
 .fixed-nav-margin {
-  height: 127px;
+  height: 146px;
 }
 
 body {
@@ -276,7 +276,6 @@ h1.greeting-text span {
 }
 .wrap ul.wrap-nav {
 	border-bottom: 1px solid #575757;
-	text-transform: capitalize;
 	padding: 150px 0px 100px;
 }
 .wrap ul.wrap-nav li {
