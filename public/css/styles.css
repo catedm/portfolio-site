@@ -497,13 +497,13 @@ footer p {
   font-size: 41px;
   color: #fff;
 }
-#contact-form input {
+input {
   height: 40px;
 }
 textarea {
   resize: none;
 }
-#contact-form input,
+input,
 textarea {
   border: 1px solid grey;
   padding: 10px;
