@@ -7,7 +7,6 @@ $(document).ready(function(){
     });
 });
 $('.overlay').on('click', function(e){
-    e.preventDefault();
     $(".overlay").fadeToggle(200);
     $(".menu-button a").toggleClass("open");
     open = false;
