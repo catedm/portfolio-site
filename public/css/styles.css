@@ -12,11 +12,14 @@
 @import url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
 
 .fixed-nav-margin {
-  height: 146px;
+  height: 130px;
 }
 
 body {
   background-color: #f9f9f9;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
 
 h1, h2, input[type="submit"] {
