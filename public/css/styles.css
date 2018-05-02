@@ -593,7 +593,8 @@ input[type="submit"]:hover {
 @media screen and (max-width: 480px) {
   h1.greeting-text {bottom: 75%;}
   h4 {font-size: 18px;}
-  .portfolio-row {padding: 0px 75px 40px 75px;}
+  .portfolio-row {padding: 0px 75px 0px 75px;}
+  .col.span_1_of_3.portfolio-item { margin-bottom: 10px; }
   .col.span_1_of_3.portfolio-item p {font-size: 15px;}
 }
 
@@ -617,5 +618,7 @@ input[type="submit"]:hover {
 }
 
 @media screen and (max-width: 375px) {
-
+  h4 {
+      font-size: 14px;
+  }
 }
