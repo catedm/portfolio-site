@@ -379,7 +379,7 @@ img.portfolio-img {
   width: 100%;
 }
 .one {
-  background:url('images/WordPress.jpg') no-repeat center center;
+  background:url('../images/WordPress.jpg') no-repeat center center;
   background-size:cover;
 }
 .wordpress {
@@ -387,7 +387,7 @@ img.portfolio-img {
   left: 13%;
 }
 .two {
-  background:url('images/rwd.jpg') no-repeat center center;
+  background:url('../images/rwd.jpg') no-repeat center center;
   background-size:cover;
 }
 .rwd {
@@ -396,7 +396,7 @@ img.portfolio-img {
   text-align: right;
 }
 .three {
-  background:url('images/gd.jpg') no-repeat center center;
+  background:url('../images/gd.jpg') no-repeat center center;
   background-size:cover;
 }
 .graphic-design {
@@ -404,7 +404,7 @@ img.portfolio-img {
   left: 13%;
 }
 .four {
-  background:url('images/frontenddev.jpg') no-repeat center center;
+  background:url('../images/frontenddev.jpg') no-repeat center center;
   background-size:cover;
 }
 .front-end-dev p,
