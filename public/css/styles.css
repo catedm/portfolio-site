@@ -359,7 +359,7 @@ img.portfolio-img {
   font-size: 1.4vw;
 }
 .icon-left {
-  background-image: url('images/Checkbox.png');
+  background-image: url('../images/Checkbox.png');
   background-size: contain;
   position: absolute;
   left: 0px;
@@ -368,7 +368,7 @@ img.portfolio-img {
   height: 49px;
 }
 .icon-left.dark {
-  background-image: url('images/Checkbox-dark.png');
+  background-image: url('../images/Checkbox-dark.png');
 }
 .one,
 .two,
@@ -568,7 +568,7 @@ input[type="submit"]:hover {
   .menu-button {display: block;}
   h4 {font-size: 15px;}
   .col.span_1_of_3.portfolio-item p {font-size: 11px;}
-  .col.span_12_of_12.home-header { background-image: url('images/mobile-header-img.jpg');}
+  .col.span_12_of_12.home-header { background-image: url('../images/mobile-header-img.jpg');}
   .header-center-border { margin-top: 25px; }
 
   .mobile-header-content {
