@@ -26,6 +26,7 @@ h1, h2, input[type="submit"] {
 h3,
 h4,
 a,
+p,
 .topnav,
 .wrap ul.wrap-nav li a,
 .col.span_1_of_3.portfolio-item p,
@@ -41,6 +42,14 @@ h1 {
   text-transform: uppercase;
   font-size: 3vw;
   letter-spacing: 2px;
+}
+.thank-you {
+  margin-top: 50px;
+  text-align: center;
+}
+h1.thank-you {
+  color: #000;
+  margin-bottom: 20px;
 }
 h3 {
   font-size: 26px;
