@@ -579,12 +579,12 @@ input[type="submit"]:hover {
 @media screen and (max-width: 600px) {
   .topnav a {display: none;}
   .menu-button {display: block;}
-  .menu-button a { margin-top: 30px; }
+  /* .menu-button a { margin-top: 30px; } */
   h4 {font-size: 15px;}
   .col.span_1_of_3.portfolio-item p {font-size: 11px;}
   .col.span_12_of_12.home-header { background-image: url('../images/mobile-header-img.jpg');}
   .header-center-border { margin-top: 25px; }
-  .logo img { width: 10%; }
+  /* .logo img { width: 10%; } */
   .mobile-header-content { display: block; }
 
   h1.mobile-header {
